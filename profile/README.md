@@ -21,7 +21,7 @@
 
 ## 👥 组织成员
 
-- [DavisYe]((https://github.com/DavisYe))：负责 创建新建文件夹
+- [DavisYe](https://github.com/DavisYe)：负责 创建新建文件夹
 
 
 ---
