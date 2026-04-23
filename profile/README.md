@@ -22,7 +22,7 @@
 ## 👥 组织成员
 
 - [DavisYe](https://github.com/DavisYe)：负责 创建新建文件夹
-- [CrezrantoTse](https://github.com/CrezrantoTse)：不负责
+- [CrisantoTse](https://github.com/CrisantoTse)：不负责
 
 ---
 
